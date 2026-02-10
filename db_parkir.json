@@ -1,0 +1,9 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"db_parkir"},
+{"type":"table","name":"parkir","database":"db_parkir","data":
+[
+{"id":"3","plat":"AB13224dc","jenis":"Motor","jam_masuk":"11.05"}
+]
+}
+]
